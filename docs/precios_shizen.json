@@ -1,0 +1,342 @@
+[
+  {
+    "category": "Cortes",
+    "service": "Corte Hombre",
+    "price": "16 €"
+  },
+  {
+    "category": "Cortes",
+    "service": "Corte Mujer",
+    "price": "18 €"
+  },
+  {
+    "category": "Cortes",
+    "service": "Corte Niñ@",
+    "price": "13,50 €"
+  },
+  {
+    "category": "Cortes",
+    "service": "Corte Hombre + Ritual Cuero Cabelludo",
+    "price": "27 €"
+  },
+  {
+    "category": "Depilación / Diseño de Cejas",
+    "service": "Depilación Cejas",
+    "price": "8 €"
+  },
+  {
+    "category": "Depilación / Diseño de Cejas",
+    "service": "Diseño Cejas",
+    "price": "10 €"
+  },
+  {
+    "category": "Depilación / Diseño de Cejas",
+    "service": "Cejas + Labio superior",
+    "price": "13 €"
+  },
+  {
+    "category": "Depilación / Diseño de Cejas",
+    "service": "Tinte de Cejas",
+    "price": "4 €"
+  },
+  {
+    "category": "Moldeados y Permanentes",
+    "service": "Permanente",
+    "price": "160 €"
+  },
+  {
+    "category": "Peinados",
+    "service": "Brushing",
+    "price": "desde 16 €"
+  },
+  {
+    "category": "Peinados",
+    "service": "Recogido",
+    "price": "52 €"
+  },
+  {
+    "category": "Peinados",
+    "service": "Semirecogido",
+    "price": "38 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Ritual Murumuru",
+    "price": "24 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Ritual Re Mersive",
+    "price": "26 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Ritual Luxury 5 Estrellas",
+    "price": "35 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Ritual Scrub",
+    "price": "22 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Ritual Vitality Express",
+    "price": "13 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Lavado + Ritual Vitality Express",
+    "price": "23 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Proplex",
+    "price": "35 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Terapia Alisado (precio por gramo)",
+    "price": "desde 190 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Terapia Reducción Volumen (precio por gramo)",
+    "price": "desde 115 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Terapia Hidratación (precio por gramo)",
+    "price": "desde 65 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Cabello Líquido",
+    "price": "85 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Ritual Purity",
+    "price": "22 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Ritual Confort",
+    "price": "22 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Ritual Vitality",
+    "price": "32 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Ritual Anti aging",
+    "price": "22 €"
+  },
+  {
+    "category": "Tratamientos Capilares",
+    "service": "Ritual Luxury",
+    "price": "26 €"
+  },
+  {
+    "category": "Tratamientos Faciales",
+    "service": "Tratamiento Anti Age",
+    "price": "60 €"
+  },
+  {
+    "category": "Tratamientos Faciales",
+    "service": "Tratamiento Contorno de Ojos",
+    "price": "50 €"
+  },
+  {
+    "category": "Tratamientos Faciales",
+    "service": "Tratamiento Em Age",
+    "price": "80 €"
+  },
+  {
+    "category": "Tratamientos Faciales",
+    "service": "Tratamiento Vitaminas",
+    "price": "60 €"
+  },
+  {
+    "category": "Tratamientos Faciales",
+    "service": "Limpieza Cutis",
+    "price": "50 €"
+  },
+  {
+    "category": "Tratamientos Faciales",
+    "service": "Limpieza Cutis + Tratamiento",
+    "price": "desde 60 €"
+  },
+  {
+    "category": "Tratamientos Faciales",
+    "service": "Facial Kafe",
+    "price": "45 €"
+  },
+  {
+    "category": "Tratamientos Corporales",
+    "service": "Tratamiento AQA",
+    "price": "60 €"
+  },
+  {
+    "category": "Tratamientos Corporales",
+    "service": "Tratamiento Aria",
+    "price": "50 €"
+  },
+  {
+    "category": "Tratamientos Corporales",
+    "service": "Exfoliante Corporal Kafe",
+    "price": "50 €"
+  },
+  {
+    "category": "Tratamientos Corporales",
+    "service": "Corporal Reductor Kafe",
+    "price": "60 €"
+  },
+  {
+    "category": "Tratamientos Corporales",
+    "service": "Corporal Tonificante Kafe",
+    "price": "60 €"
+  },
+  {
+    "category": "Tratamientos Corporales",
+    "service": "Tratamiento Etna",
+    "price": "60 €"
+  },
+  {
+    "category": "Color",
+    "service": "Barros + Lavado",
+    "price": "48 €"
+  },
+  {
+    "category": "Color",
+    "service": "Color Largo + Lavado",
+    "price": "42 €"
+  },
+  {
+    "category": "Color",
+    "service": "Color Raíz + Lavado",
+    "price": "33 €"
+  },
+  {
+    "category": "Color",
+    "service": "Color Slide + Barros + Lavado",
+    "price": "65 €"
+  },
+  {
+    "category": "Color",
+    "service": "Color Split + Lavado",
+    "price": "42 €"
+  },
+  {
+    "category": "Color",
+    "service": "Matizado + Lavado",
+    "price": "42 €"
+  },
+  {
+    "category": "Color",
+    "service": "Color Raíz + Corte Mujer",
+    "price": "51 €"
+  },
+  {
+    "category": "Color",
+    "service": "Matizado Melting + Lavado",
+    "price": "70 €"
+  },
+  {
+    "category": "Mechas y Decoloración",
+    "service": "Reflejos + Matizado",
+    "price": "40 €"
+  },
+  {
+    "category": "Mechas y Decoloración",
+    "service": "Medias Mechas + Matizado",
+    "price": "60 €"
+  },
+  {
+    "category": "Mechas y Decoloración",
+    "service": "Mechas Completas + Matizado",
+    "price": "105 €"
+  },
+  {
+    "category": "Mechas y Decoloración",
+    "service": "Mechas Babylight + Matizado",
+    "price": "140 €"
+  },
+  {
+    "category": "Mechas y Decoloración",
+    "service": "Mechas Bicolor + Matizado",
+    "price": "105 €"
+  },
+  {
+    "category": "Mechas y Decoloración",
+    "service": "Mechas Balayage + Matizado",
+    "price": "140 €"
+  },
+  {
+    "category": "Mechas y Decoloración",
+    "service": "Mechas Balayage + Babylight + Matizado",
+    "price": "160 €"
+  },
+  {
+    "category": "Mechas y Decoloración",
+    "service": "Decoloración + Matizado",
+    "price": "152 €"
+  },
+  {
+    "category": "Pedicuras y Tratamientos Pies",
+    "service": "Pedicura Orgánica",
+    "price": "25 €"
+  },
+  {
+    "category": "Pedicuras y Tratamientos Pies",
+    "service": "Pedicura Semipermanente",
+    "price": "29 €"
+  },
+  {
+    "category": "Pedicuras y Tratamientos Pies",
+    "service": "Pedicura + Tratamiento Zoya",
+    "price": "30 €"
+  },
+  {
+    "category": "Pedicuras y Tratamientos Pies",
+    "service": "Retirar Semipermanente Pies",
+    "price": "10 €"
+  },
+  {
+    "category": "Manicuras, Extensiones y Tratamientos",
+    "service": "Manicura Orgánica",
+    "price": "15 €"
+  },
+  {
+    "category": "Manicuras, Extensiones y Tratamientos",
+    "service": "Manicura Semipermanente",
+    "price": "23 €"
+  },
+  {
+    "category": "Manicuras, Extensiones y Tratamientos",
+    "service": "Manicura + Tratamiento Zoya",
+    "price": "20 €"
+  },
+  {
+    "category": "Manicuras, Extensiones y Tratamientos",
+    "service": "Retirar Semipermanente Manos",
+    "price": "10 €"
+  },
+  {
+    "category": "Masajes",
+    "service": "Masaje Relajante 50 Minutos",
+    "price": "50 €"
+  },
+  {
+    "category": "Masajes",
+    "service": "Masaje Relajante 30 Minutos",
+    "price": "30 €"
+  },
+  {
+    "category": "Maquillaje Tradicional y Permanente",
+    "service": "Maquillaje",
+    "price": "40 €"
+  }
+]

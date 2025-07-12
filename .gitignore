@@ -1,0 +1,19 @@
+# ————— Secretos —————
+.env
+*.env
+
+# ————— Entorno virtual —————
+venv/
+.env/            # si usas direnv
+
+# ————— Artefactos de Python —————
+__pycache__/
+*.py[cod]
+
+# ————— Datos pesados/temporales —————
+chroma_orgshizen/
+*.sqlite3
+*.log
+
+# ————— Notebooks de caché —————
+.ipynb_checkpoints/
