@@ -17,3 +17,6 @@ chroma_orgshizen/
 
 # ————— Notebooks de caché —————
 .ipynb_checkpoints/
+
+# vector-store local
+data/chroma/
