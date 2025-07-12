@@ -4,3 +4,7 @@ langchain-text-splitters==0.1.*
 chromadb>=0.5
 python-dotenv>=1.0
 openai>=1.12          # cliente oficial
+langchain-chroma==0.1.*
+rapidfuzz>=3.0
+beautifulsoup4>=4.12
+unstructured>=0.11
