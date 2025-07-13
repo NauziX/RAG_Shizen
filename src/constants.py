@@ -1,4 +1,3 @@
-"""Expresiones regulares y parámetros estáticos compartidos."""
 from __future__ import annotations
 
 import re
