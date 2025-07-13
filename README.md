@@ -1,4 +1,4 @@
-# ingest.py – RAG CLI para Shizen Organic
+RAG CLI para Shizen Organic
 
 ## Resumen
 
